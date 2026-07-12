@@ -1,0 +1,34 @@
+# Visual Studio / MSVC build output and caches
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+# Per-machine/per-user IDE files
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Compiler/linker intermediates
+*.obj
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.pch
+*.tlog
+*.log
+*.recipe
+*.res
+
+# Any leftover intermediate dirs named after the VS-generated project hash
+NetCrack.*/
